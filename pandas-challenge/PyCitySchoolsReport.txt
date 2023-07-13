@@ -1,0 +1,10 @@
+PyCitySchools Report
+
+This collection of data shows data is taken from 15 different schools, showing student 
+grades in math and reading along with the school budget.
+
+Cabrera High School is the highest scoring Charter school, while Bailey and Figeroa High School have the highest scoring students in reading and math.
+
+The schools with the highest budget appear to have the most students passing by overall percentage and by math and reading scores combined.
+
+These top schools also have the most students so this might not be a clear comparison of schools.
